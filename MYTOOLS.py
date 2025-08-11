@@ -16,4 +16,3 @@ def e_real(num):
     int_numero = int(numero)
     e = "2" + "," + str(int_numero)
     print(e)
-
